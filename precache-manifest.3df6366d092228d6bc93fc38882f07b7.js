@@ -25,26 +25,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "c213105a963dd9d681e47c0f89890863",
-    "url": "/static/media/background.c213105a.svg"
+    "url": "/background.c213105a.svg"
   },
   {
     "revision": "81c88265d87a5d0bc5d8b7c79e01b66b",
-    "url": "/static/media/logo.81c88265.svg"
+    "url": "/logo.81c88265.svg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/static/media/slick.b7c9e1e4.woff"
+    "url": "/slick.b7c9e1e4.woff"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/static/media/slick.ced611da.eot"
+    "url": "/slick.ced611da.eot"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
+    "url": "/slick.d41f55a7.ttf"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
+    "url": "/slick.f97e3bbf.svg"
   }
 ]);
